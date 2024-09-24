@@ -1,2 +1,2 @@
 # debbuild
-Construir Debian 12 en vivo, en un pendrive USB.
+Construir Debian 12 GNU/Linux en vivo, en un pendrive USB.
